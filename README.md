@@ -1,2 +1,2 @@
-# Esp-cies_Flores_de_-ris
+# Espécies Flores de Íris
 Repositório para estudo de Data Science utilizando espécies de Flores de Íris 
